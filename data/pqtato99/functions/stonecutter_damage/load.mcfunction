@@ -1,0 +1,1 @@
+scoreboard objectives add p99.sctime dummy

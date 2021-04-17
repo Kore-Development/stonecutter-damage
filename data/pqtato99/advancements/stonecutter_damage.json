@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Stonecutter Damage",
+        "description": "Damages players when they walk on a stonecutter",
+        "icon": {
+            "item": "minecraft:stonecutter"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:pqtato99",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
